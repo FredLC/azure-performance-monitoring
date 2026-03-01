@@ -2,7 +2,7 @@
 
 # Variables
 resourceGroup="acdnd-c4-project"
-location="westus"
+location="canadacentral"
 osType="Ubuntu2204"
 vmssName="udacity-vmss"
 adminName="udacityadmin"
