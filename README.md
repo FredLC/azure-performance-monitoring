@@ -1,10 +1,9 @@
-## Enhancing Application Reliability & Performance on Azure
+# Enhancing Application Reliability & Performance on Azure
 
 This project showcases the implementation of **monitoring, auto-scaling, and automated remediation** for a cloud-based application using Microsoft Azure.
 
 The focus was on building a system that can **detect performance issues, scale dynamically, and self-heal** with minimal manual intervention.
 
----
 
 ## Overview
 
@@ -15,7 +14,6 @@ Designed an end-to-end observability and automation solution using:
 - Application Insights & Log Analytics  
 - Azure Automation (Runbooks)
 
----
 
 ## Key Features
 
@@ -31,7 +29,6 @@ Built Azure Runbooks to automatically resolve performance issues.
 ### Alerting
 Created alerts to trigger scaling actions and remediation workflows.
 
----
 
 ## Outcome
 
